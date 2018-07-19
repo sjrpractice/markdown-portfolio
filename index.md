@@ -2,8 +2,6 @@
 layout: default
 ---
 
-Emoji
-### Emoji
-Ordered Lists
-### Ordered Lists
-Unordered Lists
+- item 1
+- item 2
+- item 3
